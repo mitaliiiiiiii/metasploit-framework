@@ -27,3 +27,39 @@ github.com/rapid7/metasploit-framework --> fork --> github.com/<...>/metasploit-
 ```
 
 (Thanks to kernelsmith for this excellent description)
+
+
+
+---
+
+## Beginner-Friendly Contribution Steps
+
+If you are new to open source, follow these simple steps to contribute:
+
+1. Fork the repository on GitHub
+
+2. Clone your fork:
+   git clone https://github.com/your-username/metasploit-framework.git
+
+3. Go to the project folder:
+   cd metasploit-framework
+
+4. Create a new branch:
+   git checkout -b my-first-contribution
+
+5. Make your changes (edit file, fix typo, improve docs)
+
+6. Add your changes:
+   git add .
+
+7. Commit your changes:
+   git commit -m "Added beginner-friendly contribution steps"
+
+8. Push to your fork:
+   git push origin my-first-contribution
+
+9. Go to GitHub and create a Pull Request
+
+---
+
+These steps are helpful for beginners who are contributing for the first time.
